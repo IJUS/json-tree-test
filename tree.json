@@ -1,0 +1,12 @@
+{
+	"value":"Fuji",
+	"left": {
+		"value":"Gala",
+		"right":{
+			"value":"Ambrosia"
+		}
+	},
+	"right": {
+		"value":"Granny Smith"
+	}
+}
