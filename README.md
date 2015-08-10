@@ -3,13 +3,17 @@ A simple programming test for working with JSON and tree structures.
 
 --------------------------------------------------------------------
 
+Minimum requirements:
+* Git
+* JDK (tested with JDK 7, but should also work with JDK 6)
+
 First, set up a Github account (if you do not already have one) and fork this repository. Instructions for doing this can be found [here](https://help.github.com/articles/fork-a-repo/).
 
 Linux execution instructions:
 
     . run.sh
 
-General execution instructions:
+General execution instructions (Windows, etc.):
 
     javac -cp dependencies.jar Node.java
     java -ea -cp dependencies.jar:. Node
