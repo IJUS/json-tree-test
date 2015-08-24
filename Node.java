@@ -35,7 +35,12 @@ public class Node {
 
 	public List<Node> toList() {
 		// TODO: write this
-		return new ArrayList<Node>();
+		ArrayList<Node> ListNode = new ArrayList<Node>();
+		
+		ListNode.add=({"Gala"});
+		System.out.println(ListNode);
+		
+		return ListNode;
 	}
 
 	public Map toMap() {
