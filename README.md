@@ -13,10 +13,15 @@ Linux execution instructions:
 
     . run.sh
 
-General execution instructions (Windows, etc.):
-
+Or:
+	
     javac -cp dependencies.jar Node.java
     java -ea -cp dependencies.jar:. Node
+
+Windows execution instructions:
+
+    javac -cp dependencies.jar Node.java
+    java -ea -cp dependencies.jar;. Node
 
 This should produce the following output:
 
