@@ -9,7 +9,7 @@ Minimum requirements:
 
 First, set up a Github account (if you do not already have one) and fork this repository. Instructions for doing this can be found [here](https://help.github.com/articles/fork-a-repo/).
 
-Linux execution instructions:
+Linux and OSX execution instructions:
 
     . run.sh
 
